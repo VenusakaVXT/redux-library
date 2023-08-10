@@ -4,8 +4,6 @@ The Redux library in Javascript is an application state management library. It i
 # Project idea
 I have consulted the redux library [here](https://github.com/reduxjs/redux) and used TypeScript language to write it.
 
-*Note: In order for the browser to execute TS code, we must compile from TS to JS.
-
 # Using the Redux Library
 Open Terminal at the project root directory.
 
@@ -22,6 +20,17 @@ Put the path specified earlier in the tsconfig.json file into the script tag in 
 ```html
 <script type="module" src="your-typescript-file.ts"></script>
 ```
+
+Finally, to run the project using TypeScript Compiler to compile from TS to JS, immediately in the directory tree where file.ts is located, there will be an additional file.js for us to run in the browser.
+
+```
+tsc --watch
+```
+
+# Experience more
+To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with CRUD features (management of students, employees, products, etc.) or Todo List.
+
+
 
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
