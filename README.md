@@ -23,6 +23,8 @@ Put the path specified earlier in the tsconfig.json file into the script tag in 
 
 Finally, to run the project using TypeScript Compiler to compile from TS to JS, immediately in the directory tree where file.ts is located, there will be an additional file.js for us to run in the browser.
 
+And I also edited the js file that nodejs compiled to make the code neater and cleaner and used **use strict** to set strict mode to avoid mistakes.
+
 ```
 tsc --watch
 ```
