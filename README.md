@@ -4,9 +4,7 @@ The Redux library in Javascript is an application state management library. It i
 # Project idea
 I have consulted the redux library [here](https://github.com/reduxjs/redux) and used TypeScript language to write it.
 
-<div style="background-color: #f2f2f2; border-left: 4px solid #333; padding: 10px;">
-    <p><strong>In order for the browser to execute TS code, we must compile from TS to JS.</p>
-</div>
+*Note: In order for the browser to execute TS code, we must compile from TS to JS.
 
 # Using the Redux Library
 Open Terminal at the project root directory.
