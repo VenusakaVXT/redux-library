@@ -14,7 +14,7 @@ This is a data flow model that emulates the Redux library:
 
 <div align="center">
 
-![image](https://github.com/VenusakaVXT/redux-library/assets/125566811/9dfcc361-a487-4961-a935-4d370647d00b)
+https://github.com/VenusakaVXT/redux-library/assets/125566811/3c18993a-9cc4-4bb3-b0cd-a81fb83a3701
 
 *Simulate how Redux works on ATM deposit/withdrawal application.*
 </div>
