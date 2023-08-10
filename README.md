@@ -30,7 +30,7 @@ tsc --watch
 And I also edited the js file that nodejs compiled to make the code neater and cleaner and used **use strict** to set strict mode to avoid mistakes.
 
 # Experience more
-To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with CRUD features (management of students, employees, products, etc.) or [Todo List](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21).
+To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with [CRUD](https://github.com/VenusakaVXT/marriage-manager-console-version) features (management of students, employees, products, etc.) or [Todo List](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21).
 
 And in my project, I also created a **bonus.ts** file that simulates a user management application, you can use your redux library created to try it out or you can download redux to your computer as follows:
 
