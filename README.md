@@ -10,7 +10,12 @@ I have consulted the redux library [here](https://github.com/reduxjs/redux) and 
 Open Terminal at the project root directory.
 
 Install the TypeScript environment.
-```  ```
+``` npm install -g typescript ```
+
+You can point to or dodge paths with **"include"** and **"exclude"** in the **tsconfig.json** file.
+
+Put the path specified earlier in the tsconfig.json file into the script tag in the index.html file to link. Remember to set **type** as **module**.
+```html <script type="module" src="your-typescript-file.ts"></script> ```
 
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
