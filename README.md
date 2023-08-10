@@ -24,5 +24,9 @@ Based on the above model, I also coded the redux library myself with the same op
 **Results Obtained**
 I built the UI and it works like below.
 
+<div align="center">
+
 https://github.com/VenusakaVXT/redux-library/assets/125566811/3c0b4438-f76c-43a1-983f-7f19334226f9
+
+</div>
 
