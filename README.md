@@ -23,11 +23,11 @@ Put the path specified earlier in the tsconfig.json file into the script tag in 
 
 Finally, to run the project using TypeScript Compiler to compile from TS to JS, immediately in the directory tree where file.ts is located, there will be an additional file.js for us to run in the browser.
 
-And I also edited the js file that nodejs compiled to make the code neater and cleaner and used **use strict** to set strict mode to avoid mistakes.
-
 ```
 tsc --watch
 ```
+
+And I also edited the js file that nodejs compiled to make the code neater and cleaner and used **use strict** to set strict mode to avoid mistakes.
 
 # Experience more
 To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with CRUD features (management of students, employees, products, etc.) or Todo List.
