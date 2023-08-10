@@ -21,7 +21,7 @@ https://github.com/VenusakaVXT/redux-library/assets/125566811/bd104a05-5fbb-46b6
 
 Based on the above model, I also coded the redux library myself with the same operation and built the redux-based application like the picture above but it is a Money Saving Piggy application :)))
 
-**Results Obtained**
+# Results Obtained
 I built the UI and it works like below.
 
 <div align="center">
