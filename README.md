@@ -4,8 +4,15 @@ The Redux library in Javascript is an application state management library. It i
 # Project idea
 I have consulted the redux library [here](https://github.com/reduxjs/redux) and used TypeScript language to write it.
 
-# Using the Redux Library
+<div style="background-color: #f2f2f2; border-left: 4px solid #333; padding: 10px;">
+    <p><strong>In order for the browser to execute TS code, we must compile from TS to JS.</p>
+</div>
 
+# Using the Redux Library
+Open Terminal at the project root directory.
+
+Install the TypeScript environment.
+```  ```
 
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
@@ -35,5 +42,6 @@ I built the UI and it works like below.
 
 https://github.com/VenusakaVXT/redux-library/assets/125566811/3c0b4438-f76c-43a1-983f-7f19334226f9
 
+*The money saving piggy bank application works using the Redux library.*
 </div>
 
