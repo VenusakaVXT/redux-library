@@ -47,6 +47,8 @@ After installing Redux, you need to import your code.
 import Redux from 'redux'
 ```
 
+*Note: If you don't have **npm** installed, install it and follow the instructions [here](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
+
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
 
