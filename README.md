@@ -1,6 +1,13 @@
-# Redux Library
+# What is Redux Library?
 The Redux library in Javascript is an application state management library. It is used to store and manage the state of the application in an easy and understandable way.
 
+# Project idea
+I have consulted the redux library [here](https://github.com/reduxjs/redux) and used TypeScript language to write it.
+
+# Using the Redux Library
+
+
+# Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
 
 <div align="center">
