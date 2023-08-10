@@ -19,8 +19,8 @@ You can point to or dodge paths with **"include"** and **"exclude"** in the **ts
 
 Put the path specified earlier in the tsconfig.json file into the script tag in the index.html file to link. Remember to set **type** as **module**.
 
-```
-html <script type="module" src="your-typescript-file.ts"></script>
+```html
+<script type="module" src="your-typescript-file.ts"></script>
 ```
 
 # Overview of Redux Library
