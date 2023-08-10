@@ -30,7 +30,22 @@ tsc --watch
 # Experience more
 To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with CRUD features (management of students, employees, products, etc.) or Todo List.
 
+And in my project, I also created a **bonus.ts** file that simulates a user management application, you can use your redux library created to try it out or you can download redux to your computer as follows:
 
+- Using npm in NodeJS environment
+```
+npm install redux
+```
+
+- Using yarn in Javascript environment
+```
+yarn add redux
+```
+
+After installing Redux, you need to import your code.
+```javascript
+import Redux from 'redux'
+```
 
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
