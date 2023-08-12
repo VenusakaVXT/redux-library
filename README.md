@@ -1,5 +1,5 @@
 # What is Redux Library?
-The Redux library in Javascript is an application state management library. It is used to store and manage the state of the application in an easy and understandable way.
+The **Redux library** in **Javascript** is an application state management library. It is used to store and manage the state of the application in an easy and understandable way.
 
 # Project idea
 I have consulted the redux library [here](https://github.com/reduxjs/redux) and used TypeScript language to write it.
@@ -7,7 +7,7 @@ I have consulted the redux library [here](https://github.com/reduxjs/redux) and 
 # Using the Redux Library
 Open Terminal at the project root directory.
 
-Install the TypeScript environment.
+Install the **TypeScript** environment.
 
 ``` 
 npm install -g typescript
@@ -21,7 +21,7 @@ Put the path specified earlier in the tsconfig.json file into the script tag in 
 <script type="module" src="your-typescript-file.ts"></script>
 ```
 
-Finally, to run the project using TypeScript Compiler to compile from TS to JS, immediately in the directory tree where file.ts is located, there will be an additional file.js for us to run in the browser.
+Finally, to run the project using **TypeScript Compiler** to compile from TS to JS, immediately in the directory tree where file.ts is located, there will be an additional file.js for us to run in the browser.
 
 ```
 tsc --watch
@@ -30,16 +30,16 @@ tsc --watch
 And I also edited the js file that nodejs compiled to make the code neater and cleaner and used **use strict** to set strict mode to avoid mistakes.
 
 # Experience more
-To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with [CRUD](https://github.com/VenusakaVXT/marriage-manager-console-version) features (management of students, employees, products, etc.) or [Todo List](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21).
+To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with [**CRUD**](https://github.com/VenusakaVXT/marriage-manager-console-version) features (management of students, employees, products, etc.) or [**Todo List**](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21).
 
 And in my project, I also created a **bonus.ts** file that simulates a user management application, you can use your redux library created to try it out or you can download redux to your computer as follows:
 
-- Using npm in NodeJS environment
+- Using **npm** in **NodeJS** environment
 ```
 npm install redux
 ```
 
-- Using yarn in Javascript environment
+- Using **yarn** in **Javascript** environment
 ```
 yarn add redux
 ```
