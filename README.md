@@ -2,7 +2,7 @@
 The **Redux library** in **Javascript** is an application state management library. It is used to store and manage the state of the application in an easy and understandable way.
 
 # Project idea
-I have consulted the redux library [here](https://github.com/reduxjs/redux) and used TypeScript language to write it.
+I have consulted the [**Redux library**](https://github.com/reduxjs/redux) and used TypeScript language to write it.
 
 # Using the Redux Library
 Open Terminal at the project root directory.
@@ -34,7 +34,7 @@ To be able to experiment more when using the library in addition to the project 
 
 And in my project, I also created a **bonus.ts** file that simulates a user management application, you can use your redux library created to try it out or you can download redux to your computer as follows:
 
-- Using **npm** in **NodeJS** environment
+- Using **npm** in [**NodeJS**](https://github.com/nodejs) environment
 ```
 npm install redux
 ```
@@ -49,7 +49,7 @@ After installing Redux, you need to import your code.
 import Redux from 'redux'
 ```
 
-*Note: If you don't have **npm** installed, install it and follow the instructions [here](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
+*Note: If you don't have **npm** installed, install it and follow the instructions **[here]**(https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)
 
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
@@ -70,7 +70,7 @@ https://github.com/VenusakaVXT/redux-library/assets/125566811/bd104a05-5fbb-46b6
 *Simulate how Redux works on ATM deposit/withdrawal application.*
 </div>
 
-Based on the above model, I also coded the redux library myself with the same operation and built the redux-based application like the picture above but it is a Money Saving Piggy application :)))
+Based on the above model, I also coded the redux library myself with the same operation and built the redux-based application like the picture above but it is a **Money Saving Piggy application** :)))
 
 # Results Obtained
 I built the UI and it works like below.
