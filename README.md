@@ -27,7 +27,7 @@ Finally, to run the project using **TypeScript Compiler** to compile from TS to 
 tsc --watch
 ```
 
-And I also edited the js file that nodejs compiled to make the code neater and cleaner and used **use strict** to set strict mode to avoid mistakes.
+And I also edited the js file that nodejs compiled to make the code neater and cleaner and used [**use strict**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) to set strict mode to avoid mistakes.
 
 # Experience more
 To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with [**CRUD**](https://github.com/VenusakaVXT/marriage-manager-console-version) features (management of students, employees, products, etc.) or [**Todo List**](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21).
@@ -44,7 +44,7 @@ npm install redux
 yarn add redux
 ```
 
-After installing **[Redux]**(https://www.npmjs.com/package/redux), you need to import your code.
+After installing [**Redux**](https://www.npmjs.com/package/redux), you need to import your code.
 ```javascript
 import Redux from 'redux'
 ```
@@ -61,7 +61,7 @@ Redux helps to separate application state and processing logic. It works based o
 *Flux Model.*
 </div>
 
-This is a data flow model that emulates the Redux library:
+This is a data flow model that emulates the **Redux library**:
 
 <div align="center">
 
