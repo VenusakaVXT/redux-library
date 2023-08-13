@@ -44,7 +44,7 @@ npm install redux
 yarn add redux
 ```
 
-After installing Redux, you need to import your code.
+After installing **[Redux]**(https://www.npmjs.com/package/redux), you need to import your code.
 ```javascript
 import Redux from 'redux'
 ```
