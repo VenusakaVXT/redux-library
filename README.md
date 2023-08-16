@@ -1,10 +1,9 @@
+{: .kramdown}
 # What is Redux Library?
 The **Redux library** in **Javascript** is an application state management library. It is used to store and manage the state of the application in an easy and understandable way.
 
 # Project idea
-I have consulted the markdown 
-[**Redux library**](https://github.com/reduxjs/redux){:target="_blank"} 
-and used TypeScript language to write it.
+I have consulted the [**Redux library**](https://github.com/reduxjs/redux){:target="_blank"} and used TypeScript language to write it.
 
 # Using the Redux Library
 Open Terminal at the project root directory.
@@ -29,14 +28,14 @@ Finally, to run the project using **TypeScript Compiler** to compile from TS to 
 tsc --watch
 ```
 
-And I also edited the js file that nodejs compiled to make the code neater and cleaner and used markdown[**use strict**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){:target="_blank"} to set strict mode to avoid mistakes.
+And I also edited the js file that nodejs compiled to make the code neater and cleaner and used [**use strict**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){:target="_blank"} to set strict mode to avoid mistakes.
 
 # Experience more
-To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with markdown[**CRUD**](https://github.com/VenusakaVXT/marriage-manager-console-version){:target="_blank"} features (management of students, employees, products, etc.) or markdown[**Todo List**](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21){:target="_blank"}.
+To be able to experiment more when using the library in addition to the project I have done and will introduce below, you can apply the library to projects with [**CRUD**](https://github.com/VenusakaVXT/marriage-manager-console-version){:target="_blank"} features (management of students, employees, products, etc.) or [**Todo List**](https://github.com/VenusakaVXT/template-library/tree/master/template_HTML_CSS_and_Javascript/template_HTML_CSS_JS_21){:target="_blank"}.
 
 And in my project, I also created a **bonus.ts** file that simulates a user management application, you can use your redux library created to try it out or you can download redux to your computer as follows:
 
-- Using **npm** in markdown[**NodeJS**](https://github.com/nodejs){:target="_blank"} environment
+- Using **npm** in [**NodeJS**](https://github.com/nodejs){:target="_blank"} environment
 ```
 npm install redux
 ```
@@ -46,12 +45,12 @@ npm install redux
 yarn add redux
 ```
 
-After installing markdown[**Redux**](https://www.npmjs.com/package/redux){:target="_blank"}, you need to import your code.
+After installing [**Redux**](https://www.npmjs.com/package/redux){:target="_blank"}, you need to import your code.
 ```javascript
 import Redux from 'redux'
 ```
 
-*Note: If you don't have **npm** installed, install it and follow the instructions markdown[**here**](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac){:target="_blank"}
+*Note: If you don't have **npm** installed, install it and follow the instructions [**here**](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac){:target="_blank"}
 
 # Overview of Redux Library
 Redux helps to separate application state and processing logic. It works based on the Flux model, with a single store to store the state and actions to change that state.
