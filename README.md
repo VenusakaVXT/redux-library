@@ -2,7 +2,7 @@
 The **Redux library** in **Javascript** is an application state management library. It is used to store and manage the state of the application in an easy and understandable way.
 
 # Project idea
-I have consulted the markdown[**Redux library**](https://github.com/reduxjs/redux){:target="_blank"} and used TypeScript language to write it.
+I have consulted the markdown [**Redux library**](https://github.com/reduxjs/redux){:target="_blank"} and used TypeScript language to write it.
 
 # Using the Redux Library
 Open Terminal at the project root directory.
