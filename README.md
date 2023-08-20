@@ -10,7 +10,7 @@ Open Terminal at the project root directory.
 Install the **TypeScript** environment.
 
 ``` 
-npm install -g typescript
+$ npm install -g typescript
 ```
 
 You can point to or dodge paths with **"include"** and **"exclude"** in the **tsconfig.json** file.
@@ -24,7 +24,7 @@ Put the path specified earlier in the tsconfig.json file into the script tag in 
 Finally, to run the project using **TypeScript Compiler** to compile from TS to JS, immediately in the directory tree where file.ts is located, there will be an additional file.js for us to run in the browser.
 
 ```
-tsc --watch
+$ tsc --watch
 ```
 
 And I also edited the js file that nodejs compiled to make the code neater and cleaner and used [**use strict**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) to set strict mode to avoid mistakes.
@@ -36,12 +36,12 @@ And in my project, I also created a **bonus.ts** file that simulates a user mana
 
 - Using **npm** in [**NodeJS**](https://github.com/nodejs) environment
 ```
-npm install redux
+$ npm install redux
 ```
 
 - Using **yarn** in **Javascript** environment
 ```
-yarn add redux
+$ yarn add redux
 ```
 
 After installing [**Redux**](https://www.npmjs.com/package/redux), you need to import your code.
